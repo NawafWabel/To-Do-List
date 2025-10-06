@@ -1,3 +1,6 @@
+## Python Program for Practicals
+print("This Program is for Colleting Notes")
+
 tasks = []
 
 while True:
@@ -7,7 +10,7 @@ while True:
     print("3. Delete Task")
     print("4. Exit")
 
-    choice = input("Choose an option (1-4): ")
+    choice = input("Choose an option only between (1-4): ")
 
     if choice == "1":
         task = input("Enter the task: ")
@@ -45,3 +48,4 @@ while True:
 
     else:
         print("Invalid choice, please try again.")
+
