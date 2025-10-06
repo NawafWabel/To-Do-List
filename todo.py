@@ -1,5 +1,5 @@
 ## Python Program for Practicals
-print("This Program is for Colleting Notes")
+print("This Program is for Collecting Notes")
 
 tasks = []
 
@@ -48,4 +48,5 @@ while True:
 
     else:
         print("Invalid choice, please try again.")
+
 
